@@ -1,4 +1,4 @@
-package Algorithm;
+package algorithm;
 
 public class Sudoku {
     public static void main(String[] args) {

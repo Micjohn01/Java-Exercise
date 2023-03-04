@@ -1,6 +1,4 @@
-package Algorithm;
-
-import java.util.Arrays;
+package algorithm;
 
 public class ArrayFillingUsingLoop {
     public static void main(String[] args) {

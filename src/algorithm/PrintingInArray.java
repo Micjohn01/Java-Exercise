@@ -1,4 +1,4 @@
-package Algorithm;
+package algorithm;
 
 public class PrintingInArray {
     public static void main(String[] args) {
